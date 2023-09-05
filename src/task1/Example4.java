@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package task1;
 
 public class Example4 {
     static int calculateFactorial(int n){
