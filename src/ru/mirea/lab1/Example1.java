@@ -1,4 +1,4 @@
-package task1;
+package ru.mirea.lab1;
 
 import java.util.Scanner;
 

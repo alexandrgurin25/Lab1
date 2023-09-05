@@ -34,6 +34,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693856212514</updated>
       <workItem from="1693856213615" duration="6795000" />
-      <workItem from="1693927322796" duration="2048000" />
+      <workItem from="1693927322796" duration="2545000" />
     </task>
     <servers />
   </component>
