@@ -22,6 +22,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alexandrgurin25"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eda3b6b4-b3ca-44ec-b85b-1bc5fa2cd59d" />
+        <option name="url" value="https://github.com/alexandrgurin25/Lab1" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693856212514</updated>
       <workItem from="1693856213615" duration="6795000" />
-      <workItem from="1693927322796" duration="692000" />
+      <workItem from="1693927322796" duration="1705000" />
     </task>
     <servers />
   </component>
