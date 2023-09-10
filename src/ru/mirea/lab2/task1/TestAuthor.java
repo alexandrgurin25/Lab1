@@ -1,4 +1,6 @@
-package ru.mirea.lab2;
+package ru.mirea.lab2.task1;
+
+import ru.mirea.lab2.task1.Author;
 
 public class TestAuthor {
     public static void main(String[] args) {
