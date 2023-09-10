@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f30ffd-f445-41b2-9aae-8ce400c30260" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task10/HowMany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/TestAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HowMany">
+    <configuration name="HowMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.task10.HowMany" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab2.task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.task2.TestBall" />
       <module name="Lab1" />
@@ -86,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HowMany" />
         <item itemvalue="Application.TestBall" />
       </list>
     </recent_temporary>
@@ -104,7 +116,7 @@
       <workItem from="1694334970081" duration="3585000" />
       <workItem from="1694338604006" duration="2564000" />
       <workItem from="1694341801773" duration="54000" />
-      <workItem from="1694341865798" duration="2126000" />
+      <workItem from="1694341865798" duration="2772000" />
     </task>
     <servers />
   </component>
