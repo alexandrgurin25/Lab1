@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="83f30ffd-f445-41b2-9aae-8ce400c30260" name="Changes" comment="task10_ReadMe">
       <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Circle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Point.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="83f30ffd-f445-41b2-9aae-8ce400c30260" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task10/HowMany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 41440d3ea01c8a64ac1b68e71395ee1febbc1761
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +76,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Tester">
+=======
+  <component name="RunManager" selected="Application.HowMany">
+>>>>>>> 41440d3ea01c8a64ac1b68e71395ee1febbc1761
     <configuration name="HowMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.task10.HowMany" />
       <module name="Lab1" />
@@ -111,7 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Tester" />
+=======
+>>>>>>> 41440d3ea01c8a64ac1b68e71395ee1febbc1761
         <item itemvalue="Application.HowMany" />
         <item itemvalue="Application.TestBall" />
       </list>
@@ -131,7 +145,11 @@
       <workItem from="1694334970081" duration="3585000" />
       <workItem from="1694338604006" duration="2564000" />
       <workItem from="1694341801773" duration="54000" />
+<<<<<<< HEAD
       <workItem from="1694341865798" duration="5755000" />
+=======
+      <workItem from="1694341865798" duration="2772000" />
+>>>>>>> 41440d3ea01c8a64ac1b68e71395ee1febbc1761
     </task>
     <task id="LOCAL-00001" summary="task10_ReadMe">
       <option name="closed" value="true" />
