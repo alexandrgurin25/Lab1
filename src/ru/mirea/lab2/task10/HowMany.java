@@ -15,7 +15,6 @@ public class HowMany {
     }
 
     public static int countWords(String text) {
-        // Разделяем текст на слова, используя пробелы и знаки препинания в качестве разделителей
         String[] words = text.split("[\\s\\p{Punct}]+");
 
         return words.length;

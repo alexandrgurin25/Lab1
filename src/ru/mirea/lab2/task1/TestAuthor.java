@@ -1,7 +1,5 @@
 package ru.mirea.lab2.task1;
 
-import ru.mirea.lab2.task1.Author;
-
 public class TestAuthor {
     public static void main(String[] args) {
         Author author = new Author("Иванов Иван", "ivan@email.ru", 'M');

@@ -13,6 +13,14 @@ public class Circle {
         return center;
     }
 
+    public double Perimeter(double radius) {
+        return  radius * 2 * Math.PI;
+    }
+
+    public  double Square(double radius){
+        return radius * Math.PI * radius;
+    }
+
     public double getRadius() {
         return radius;
     }

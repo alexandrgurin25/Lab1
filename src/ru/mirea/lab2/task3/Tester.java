@@ -22,19 +22,18 @@ public class Tester {
             System.out.println("Окружность " + (i + 1) + ":");
             System.out.println("Центр: (" + circles[i].getCenter().getX() + ", " + circles[i].getCenter().getY() + ")");
             System.out.println("Радиус: " + circles[i].getRadius());
+            System.out.println("Периметр: "+circles[i].Perimeter(circles[i].getRadius()));
+            System.out.println("Площадь: "+circles[i].Square(circles[i].getRadius()));
         }
     }
     public static void main(String[] args) {
         Tester tester = new Tester(3);
-
         Point center = new Point(1,1);
         Circle circleRad3 = new Circle(center,3);
-
         Point centerNew = new Point(4,1);
         Circle circleRad7 = new Circle(centerNew,7);
         tester.addCircle(circleRad3);
         tester.addCircle(circleRad7);
         tester.displayCircles();
-
     }
 }
