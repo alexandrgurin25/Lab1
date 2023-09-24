@@ -1,4 +1,4 @@
-package ru.mirea.lab3.MathRandom;
+package ru.mirea.lab3.MathRandom.task1;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
