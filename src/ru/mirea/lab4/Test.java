@@ -3,7 +3,7 @@ package ru.mirea.lab4;
 public class Test {
     public static void main(String[] args) {
         // 1) Создаем переменную и распечатываем информацию о ней
-        Season myFavoriteSeason = Season.ЛЕТО;
+        Season myFavoriteSeason = Season.SUMMER;
         System.out.println("Мое любимое время года: " + myFavoriteSeason);
         System.out.println("Средняя температура: " + myFavoriteSeason.getAverageTemperature() + "°C");
         System.out.println("Описание времени года: " + myFavoriteSeason.getDescription());
