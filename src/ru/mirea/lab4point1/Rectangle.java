@@ -1,18 +1,48 @@
 package ru.mirea.lab4point1;
 
 public class Rectangle extends Shape{
-    //Остановился на добавлении защищенных width и length
-    public Rectangle(String color, boolean filled) {
+    protected double width;
+    protected double length;
+
+    public Rectangle(String color, boolean filled, double width, double length) {
         super(color, filled);
+        this.width = width;
+        this.length = length;
+    }
+
+    public double getWidth() {
+        return width;
+    }
+
+    public void setWidth(double width) {
+        this.width = width;
+    }
+
+    public double getLength() {
+        return length;
+    }
+
+    public void setLength(double length) {
+        this.length = length;
     }
 
     @Override
     public double getArea() {
-        return 0;
+        return length * width;
     }
 
     @Override
     public double getPerimeter() {
-        return 0;
+        return 2 * (length + width);
+    }
+
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "width=" + width +
+                ", length=" + length +
+                ", color='" + color + '\'' +
+                ", filled=" + filled +
+                '}';
     }
 }
