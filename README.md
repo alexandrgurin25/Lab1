@@ -1,6 +1,5 @@
 
-# Гурин Александр
-# КАБО-02-22
+# Гурин Александр КАБО-02-22
 # Решение в src/ru/mirea/
 # Выполненные задания:
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab1"># Лабораторная работа 1<a> <br>
