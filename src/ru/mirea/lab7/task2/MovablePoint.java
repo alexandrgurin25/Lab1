@@ -1,45 +1,38 @@
-package ru.mirea.lab7;
+package ru.mirea.lab7.task2;
 
-public class MovableRectangle implements Movable{
-    public int x;
-    public int y;
+public class MovablePoint implements Movable{
+    private int x;
+    private int y;
 
-    public MovableRectangle(int x, int y) {
+    public MovablePoint(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    public int getX() {
-        return x;
-    }
-
-    public int getY() {
-        return y;
-    }
 
     @Override
     public void moveUp() {
-        this.y += 1;
+        y++;
     }
 
     @Override
     public void moveDown() {
-        this.y -= 1;
+        y--;
     }
 
     @Override
     public void moveLeft() {
-        this.x -= 1;
+        x--;
     }
 
     @Override
     public void moveRight() {
-        this.x += 1;
+        x++;
     }
 
     @Override
     public String toString() {
-        return "MovableRectangle {" +
+        return "MovablePoint{" +
                 "x=" + x +
                 ", y=" + y +
                 '}';
