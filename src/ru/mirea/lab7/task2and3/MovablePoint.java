@@ -1,4 +1,4 @@
-package ru.mirea.lab7.task2;
+package ru.mirea.lab7.task2and3;
 
 public class MovablePoint implements Movable{
     private int x;
@@ -36,5 +36,9 @@ public class MovablePoint implements Movable{
                 "x=" + x +
                 ", y=" + y +
                 '}';
+    }
+
+    public boolean speedTest(MovablePoint other) {
+        return this.x == other.x && this.y == other.y;
     }
 }

@@ -1,12 +1,12 @@
-package ru.mirea.lab7.task2;
+package ru.mirea.lab7.task2and3;
 
 public class MovableRectangle implements Movable{
     private MovablePoint topLeft;
     private MovablePoint bottomRight;
 
-    public MovableRectangle(int x1, int y1, int x2, int y2) {
-        topLeft = new MovablePoint(x1, y1);
-        bottomRight = new MovablePoint(x2, y2);
+    public MovableRectangle(MovablePoint topLeft, MovablePoint bottomRight) {
+        this.topLeft = topLeft;
+        this.bottomRight = bottomRight;
     }
 
     @Override
@@ -40,5 +40,9 @@ public class MovableRectangle implements Movable{
                 "topLeft=" + topLeft +
                 ", bottomRight=" + bottomRight +
                 '}';
+    }
+
+    public boolean speedTest(MovableRectangle other) {
+        return this.topLeft.speedTest(other.topLeft) && this.bottomRight.speedTest(other.bottomRight);
     }
 }
