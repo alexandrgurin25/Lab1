@@ -14,6 +14,6 @@
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab4point1"># Лабораторные работа 4.1<a> <br>
 Выполнение диаграммы 4.1.1(задание с урока)<br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab7"># Лабораторные работа 7<a> <br>
-(1, 2)
+(1, 2 , 3 ?)
 
 Продолжение следует)
