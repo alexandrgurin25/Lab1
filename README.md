@@ -16,4 +16,6 @@
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab7"># Лабораторные работа 7<a> <br>
 (1, 2 , 3 ?)
 
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
+
 Продолжение следует)
