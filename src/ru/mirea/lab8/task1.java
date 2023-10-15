@@ -1,14 +1,15 @@
-package laba2.gurin;
+package ru.mirea.lab8;
 
 import java.util.Scanner;
 
-public class solution {
-
-    /*
+/*
+    Вариант #9
     Задание Без двух нулей
     Даны числа a и b. Определите, сколько существует последовательностей
     из a нулей и b единиц, в которых никакие два нуля не стоят рядом.
      */
+
+    public class task1 {
     public static int recursion(int a, int b){
         if ((a == 0)&&(b != 0)) {
             return 1;
@@ -31,7 +32,6 @@ public class solution {
         a = scanner.nextInt();
         System.out.println("Введите b ->");
         b = scanner.nextInt();
-        System.out.println(recursion(a, b));
-
+        System.out.println("Последовательностей -> "+recursion(a, b));
     }
 }
