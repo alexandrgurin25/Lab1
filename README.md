@@ -16,8 +16,8 @@
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab7"># Лабораторные работа 7<a> <br>
 1, 2 и 3 в одном файле <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab8"># Лабораторные работа 8<a> <br>
-Мой вариант 9 -> 9, 10, 11
-(В последнем не совсем получилась рекурсия, но условие задания выполнено))
+Мой вариант 9 -> 9, 10, 11 <br>
+(В последнем не совсем получилась рекурсия, но условие задания выполнено))<br>
 
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
