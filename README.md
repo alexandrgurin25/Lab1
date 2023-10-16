@@ -21,7 +21,8 @@ Shells: 1 <br>
 Мой вариант 9 -> 9, 10, 11 <br>
 В последнем задании не совсем получилась рекурсия,<br>
 но условие задания выполнено<br>
-
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab9"># Лабораторная работа 9<a> <br>
+1 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
 Продолжение следует)
