@@ -1,11 +1,10 @@
 package ru.mirea.lab3.MathRandom.task1;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         // Используя класс 'Random'
         Random random = new Random();

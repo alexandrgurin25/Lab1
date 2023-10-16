@@ -11,7 +11,7 @@ package ru.mirea.lab8;
  */
 
 import java.util.Scanner;
-public class task2 {
+public class Task2 {
     public static int reverse(int n, int result) {
         if (n == 0) {
             return result;

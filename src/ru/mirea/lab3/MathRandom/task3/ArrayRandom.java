@@ -2,7 +2,7 @@ package ru.mirea.lab3.MathRandom.task3;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class arrayRandom {
+public class ArrayRandom {
     public static void main(String[] args) {
         int size = 4; // Длина массива
         int[] array = new int[size];

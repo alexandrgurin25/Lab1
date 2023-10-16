@@ -9,7 +9,7 @@ import java.util.Scanner;
     из a нулей и b единиц, в которых никакие два нуля не стоят рядом.
      */
 
-    public class task1 {
+    public class Task1 {
     public static int recursion(int a, int b){
         if ((a == 0)&&(b != 0)) {
             return 1;

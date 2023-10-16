@@ -1,6 +1,6 @@
 package ru.mirea.lab3.Shells;
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         // Создание объектов класса Double с использованием метода valueOf()
         Double doubleObj1 = Double.valueOf(3.14);

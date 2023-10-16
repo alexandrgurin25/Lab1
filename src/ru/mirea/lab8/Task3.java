@@ -12,7 +12,7 @@ import java.util.Scanner;
     передаваемые в функцию. Функция получает данные, считывая их с клавиатуры,
     а не получая их в виде параметров.
  */
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         int count = countOnesInSequence();
         System.out.println("Количество вхождений числа 1: " + count);
