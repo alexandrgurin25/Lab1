@@ -23,6 +23,8 @@ Shells: 1 <br>
 но условие задания выполнено<br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab9"># Лабораторная работа 9<a> <br>
 1, 2 <br>
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab11"># Лабораторная работа 11<a> <br>
+1, 2, 3, 4<br>
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
