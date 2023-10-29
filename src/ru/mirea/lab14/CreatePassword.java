@@ -31,7 +31,7 @@ public class CreatePassword {
             String password = scanner.next();
             Matcher matcher = pattern.matcher(password);
             if (matcher.matches()) {
-                // flag = false;
+                flag = false;
                 System.out.println("Отлично, у Вас надежный пароль!");
             } else{
                 System.out.println("Пароль ненадежный,\nПопробуйте еще раз!");
