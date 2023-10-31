@@ -20,6 +20,9 @@ Shells: 1 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab4point1"># Лабораторная работа 4.1<a> <br>
 Выполнение диаграммы 4.1.1(задание с урока)<br>
 -----------------------------<br>
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab6"># Лабораторная работа 6<a> <br>
+1 и 2 повторяются в лабораторной работе 7 <br> 3 <br>
+-----------------------------<br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab7"># Лабораторная работа 7<a> <br>
 1, 2 и 3 в одном файле <br>
 -----------------------------<br>
@@ -38,7 +41,7 @@ Shells: 1 <br>
 4, 5 <br>
 -----------------------------<br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab14"># Лабораторная работа 14<a> <br>
-7 <br>
+5, 6, 7 <br>
 -----------------------------<br>
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
