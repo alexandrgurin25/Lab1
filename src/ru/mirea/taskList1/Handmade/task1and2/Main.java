@@ -1,4 +1,4 @@
-package ru.mirea.taskList1.Handmade.task1;
+package ru.mirea.taskList1.Handmade.task1and2;
 
 
 public class Main {
@@ -14,7 +14,5 @@ public class Main {
         list.remove();
         System.out.println(list.toString());
         System.out.println(list.output(0));
-
-
     }
 }

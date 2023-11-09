@@ -1,6 +1,4 @@
-package ru.mirea.taskList1.Handmade.task1;
-
-import java.util.Scanner;
+package ru.mirea.taskList1.Handmade.task1and2;
 
 public class Student {
     public String name;

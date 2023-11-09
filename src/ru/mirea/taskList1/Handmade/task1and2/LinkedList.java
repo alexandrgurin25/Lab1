@@ -1,4 +1,4 @@
-package ru.mirea.taskList1.Handmade.task1;
+package ru.mirea.taskList1.Handmade.task1and2;
 
 public class LinkedList {
 
