@@ -42,6 +42,9 @@ Shells: 1 <br>
 -----------------------------<br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab14"># Лабораторная работа 14<a> <br>
 5, 6, 7 <br>
+-----------------------------<br> 
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/taskList1"># Задание на списки №1<a> <br>
+Односвязный список(Library - с помощью библиотеки; Handmade - реализация руками) <br>
 -----------------------------<br>
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
