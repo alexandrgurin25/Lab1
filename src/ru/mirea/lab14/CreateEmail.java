@@ -16,7 +16,7 @@ public class CreateEmail {
     public static void main(String[] args) {
         System.out.println("Напиши свой Email:");
 
-        Pattern pattern = Pattern.compile("^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$");
+        Pattern pattern = Pattern.compile("^[A-Za-z0-9+_.]+@[A-Za-z0-9.-]+$");
         boolean flag = true;
 
         while (flag){

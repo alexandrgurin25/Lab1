@@ -1,4 +1,6 @@
-package ru.mirea.HomeTaskFromLecture;
+package ru.mirea.HomeTaskFromLecture.Oct13;
+
+import ru.mirea.HomeTaskFromLecture.Oct13.Complex;
 
 public class main {
     public static void main(String[] args) {

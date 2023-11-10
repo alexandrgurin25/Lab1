@@ -1,4 +1,4 @@
-package ru.mirea.HomeTaskFromLecture;
+package ru.mirea.HomeTaskFromLecture.Oct13;
 
 public class Complex {
     private double real;
