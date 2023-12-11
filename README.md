@@ -52,6 +52,9 @@ Shells: 1 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab20"># Лабораторная работа 20<a> <br>
 1,2,5 <br>
 -----------------------------<br> 
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab21"># Лабораторная работа 21<a> <br>
+1,2,3 <br>
+-----------------------------<br> 
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
