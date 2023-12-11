@@ -58,6 +58,9 @@ Shells: 1 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab22"># Лабораторная работа 22<a> <br>
 RPNCalculator <br>
 -----------------------------<br> 
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab23"># Лабораторная работа 23<a> <br>
+Queue <br>
+-----------------------------<br> 
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
