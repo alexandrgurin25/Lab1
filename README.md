@@ -61,6 +61,9 @@ RPNCalculator <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab23"># Лабораторная работа 23<a> <br>
 Queue <br>
 -----------------------------<br> 
+<a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab24"># Лабораторная работа 24<a> <br>
+Задание 1 <br>
+-----------------------------<br> 
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
 
