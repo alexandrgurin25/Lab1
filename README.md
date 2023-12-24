@@ -65,7 +65,7 @@ Queue <br>
 Задание 1 <br>
 -----------------------------<br> 
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/lab29"># Лабораторная работа 29<a> <br>
-Задание 1 <br>
+Города и дороги <br>
 -----------------------------<br> 
 <br>
 <a href = "https://github.com/alexandrgurin25/Lab1/tree/main/src/ru/mirea/HomeTaskFromLecture"># Домашка с лекций<a> <br>
