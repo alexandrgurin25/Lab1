@@ -1,4 +1,4 @@
-package ru.mirea.lab14;
+package ru.mirea.lab14and25;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

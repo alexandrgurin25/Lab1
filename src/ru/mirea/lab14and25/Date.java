@@ -1,4 +1,4 @@
-package ru.mirea.lab14;
+package ru.mirea.lab14and25;
 
 /*
     Написать регулярное выражение, определяющее является ли данная

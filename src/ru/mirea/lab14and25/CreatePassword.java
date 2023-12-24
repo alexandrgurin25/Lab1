@@ -1,4 +1,4 @@
-package ru.mirea.lab14;
+package ru.mirea.lab14and25;
 
 /*
     Проверить, надежно ли составлен пароль. Пароль считается
